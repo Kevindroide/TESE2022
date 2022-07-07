@@ -1,4 +1,5 @@
-# TESE2022
+# Congreso Nacional de Proyectos de Investigación e Innovación Tecnológica y Robótica 2022
+## Tecnologico de Estudios Superiores de Ecatepec
 Repositorio para el taller de Análisis de Datos con Python
 <p>
 <table class="tfo-notebook-buttons" align="left">
